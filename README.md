@@ -49,23 +49,29 @@ linguagem C e Java para a comunicação do computador com o arduino.
 ---
 
 ## 👨‍💻 Autor
+ <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/25436067/140843261-688a8cb2-582c-4f82-8e50-cf37d6589fe3.png" width="100px;" alt="Gabriel Alonso"/>
+ <sub><b>Davi Marcelino</b></sub>
+ <br />
+ <br />
  <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/25436067/139539673-0901e87c-b021-46bd-b173-795d4ed94e9a.png" width="100px;" alt="Gabriel Alonso"/>
  <sub><b>Gabriel Alonso</b></sub>
+ <br />
  <br />
  <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/25436067/140843165-16124720-75c8-4564-a131-ee522df710e8.png" width="100px;" alt="Gabriel Alonso"/>
  <sub><b>Lucas Mori</b></sub>
  <br />
- <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/25436067/140843261-688a8cb2-582c-4f82-8e50-cf37d6589fe3.png" width="100px;" alt="Gabriel Alonso"/>
- <sub><b>Davi Marcelino</b></sub>
- <br />
- <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/25436067/140843434-fdffc2f6-37c2-4906-9388-90fbedeedd2f.png" width="100px;" alt="Gabriel Alonso"/>
- <sub><b>Samuel Ferracini</b></sub>
  <br />
  <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/25436067/140843522-3448af54-52f9-42fb-8105-6c6cacc35e3a.png" width="100px;" alt="Gabriel Alonso"/>
  <sub><b>Maycon Robert</b></sub>
  <br />
+ <br />
  <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/25436067/140843583-d7e2c7f6-0978-46a9-9772-c864b251fecf.png" width="100px;" alt="Gabriel Alonso"/>
  <sub><b>Maria Elizabeth</b></sub>
+ <br />
+ <br />
+ <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/25436067/140843434-fdffc2f6-37c2-4906-9388-90fbedeedd2f.png" width="100px;" alt="Gabriel Alonso"/>
+ <sub><b>Samuel Ferracini</b></sub>
+ <br />
  <br />
  
 ---
